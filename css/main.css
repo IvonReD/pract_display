@@ -1,0 +1,14 @@
+.box-yellow {
+    display:block;
+    height: 150px;
+    margin: 10px;
+    background-color: #e6b800;
+}
+
+.box-black {
+    display:block;
+    height: 150px;
+    margin: 10px;
+    color: white;
+    background-color: black;
+}
