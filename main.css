@@ -12,3 +12,59 @@
     color: white;
     background-color: black;
 }
+
+
+.box-yellow2 {
+    display:block;
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+    background-color: #e6b800;
+}
+
+.box-black2 {
+    display:block;
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+    color: white;
+    background-color: black;
+}
+
+
+.box-yellow3 {
+    display:inline-block;
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+    background-color: #e6b800;
+}
+
+.box-black3 {
+    display:inline-block;
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+    color: white;
+    background-color: black;
+}
+
+
+.box-yellow4 {
+    display:inline;
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #e6b800;
+}
+
+.box-black4 {
+    display:inline;
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
